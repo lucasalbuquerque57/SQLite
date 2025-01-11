@@ -125,7 +125,7 @@ fun App(viewModel: PessoaViewModel, mainActivity: MainActivity){
         }
         Row(
             Modifier
-                .padding(20.dp)
+                .padding(21.dp)
         ){
 
         }
